@@ -15,6 +15,3 @@ Open to collaborations and team work.
 Always eager to leaen new technologies and apply them into the real world.
 
 ## Languages: C, Python, Java, Dart and C#.
-
-## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
